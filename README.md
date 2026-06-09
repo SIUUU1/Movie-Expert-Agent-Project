@@ -2,7 +2,7 @@
 
 OpenAI GPT-4o-mini의 Function Calling 기능과 실제 Movie API를 활용하여 구현한 Movie Expert Agent입니다.
 
-사용자의 자연어 질문을 분석하여 적절한 함수를 선택하고 영화 정보를 조회할 수 있습니다.
+사용자의 질문을 분석하여 적절한 함수를 선택하고 영화 정보를 조회할 수 있습니다.
 
 
 ## 📌 프로젝트 소개
